@@ -1,2 +1,2 @@
-#Translator
-This is a simple translator example.
+Translator
+This is a simple example for translator.
